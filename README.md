@@ -1,2 +1,2 @@
 # Trying-to-figure-it-out
-Rough ideas and laypouts
+Rough ideas and layouts
